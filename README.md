@@ -1,2 +1,0 @@
-# test
-printf 1
